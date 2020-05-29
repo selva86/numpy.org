@@ -45,6 +45,7 @@ Try these advanced resources for a better understanding of NumPy concepts like a
 <i class="fad fa-chalkboard"></i> **Tutorials**
 
 * [100 NumPy Exercises](http://www.labri.fr/perso/nrougier/teaching/numpy.100/index.html) *by Nicolas P. Rougier*
+* [101 Numpy Exercises for Data Analysis](https://www.machinelearningplus.com/python/101-numpy-exercises-python/) *by Selva Prabhakaran*
 * [An Introduction to NumPy and Scipy](https://engineering.ucsb.edu/~shell/che210d/numpy.pdf) *by M. Scott Shell*
 * [Numpy Medkits](http://mentat.za.net/numpy/numpy_advanced_slides/) *by Stéfan van der Walt*
 * [NumPy in Python (Advanced)](https://www.geeksforgeeks.org/numpy-python-set-2-advanced/)
